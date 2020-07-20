@@ -2,6 +2,9 @@
 
 function iprint {
     ###
+    # Author: matgd
+    # License: MIT (https://github.com/matgd/bash-snippets)
+    #
     # Function for informative printing. 
     # Params:
     #   $1 - printing mode {INFO, WARN, FAILED, OK}
