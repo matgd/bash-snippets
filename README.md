@@ -5,3 +5,5 @@ To follow MIT license you can append the license notice or just keep this line i
 ```bash
 # License: MIT (https://github.com/matgd/bash-snippets)
 ```
+
+*MkDocs in future.*
